@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PracticalTasl.iml" filepath="$PROJECT_DIR$/.idea/modules/PracticalTasl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PracticalTasl.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PracticalTasl.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/759928149/PracticalTasl.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/759928149/PracticalTasl.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1452846033/PracticalTasl.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1452846033/PracticalTasl.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/878400038/PracticalTasl.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/878400038/PracticalTasl.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1594094538/PracticalTasl.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1594094538/PracticalTasl.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1314752241/PracticalTasl.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1314752241/PracticalTasl.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-390066201/PracticalTasl.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-390066201/PracticalTasl.react-native-screens.iml" />
+    </modules>
+  </component>
+</project>
